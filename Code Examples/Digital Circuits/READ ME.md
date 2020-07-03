@@ -1,4 +1,4 @@
-This Directory contains the Verilog Code Examples Created by me.
+#This Directory contains the DIGITAL CIRCUITS Examples Created by me.
 
 These examples contains Verilog Code modules along with their test fixture, signal analysis(Simulation) and their symbolic representation.
 
